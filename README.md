@@ -4,8 +4,6 @@ Platform marketplace + lelang karya seni (aplikasi **mobile**, Flutter) dengan
 verifikasi keaslian berbasis digital fingerprinting dan fitur AI/computer
 vision. Proyek kelompok PBL — prodi Sains Data Terapan, PENS.
 
-Konteks lengkap produk & keputusan desain ada di [CLAUDE.md](CLAUDE.md).
-
 ## Struktur repo (monorepo)
 
 ```
