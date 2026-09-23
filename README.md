@@ -10,7 +10,6 @@ Konteks lengkap produk & keputusan desain ada di [CLAUDE.md](CLAUDE.md).
 
 ```
 projek galeria/
-├── CLAUDE.md                    Konteks produk, scope, riwayat keputusan
 ├── ml-visual-search/            Modeling CV utk Visual Search ← lihat README di dalamnya
 │                                 (convnext_small fine-tuned WikiArt → embedding)
 ├── ml-digital-art-identity/      Modeling utk Digital Art Identity (anggota lain)
